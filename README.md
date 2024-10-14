@@ -53,8 +53,8 @@ project-root/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/shehzadfalcon/Express-Google-Auth-Drive
-cd Express-Google-Auth-Drive
+git clone https://github.com/shehzadfalcon/express-google-auth-drive
+cd express-google-auth-drive
 ```
 
 
